@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+# game files and exports: keep them out of the repository
+*.P3D
+*.p3d
+*.PTX
+*.ptx
+*.DDS
+*.dds
+*.obj
+*.mtl
